@@ -1,0 +1,23 @@
+Desconfío
+Página 1 de 1
+
+1.Objetivo
+El objetivo de la partida es desprenderse de todas las cartas que se reciben en el reparto.
+
+
+2.Jugadores
+Se sortea el mano (como se explicó en la Casita Robada) y el jugador situado a su izquierda distribuye las cartas del mazo, de una en una, entre todos los jugadores, en el sentido de las agujas del reloj.
+
+3.Inicio
+Inicia el juego el jugador mano colocando una de sus cartas boca abajo sobre la mesa y diciendo un palo, por ejemplo: oros.
+
+4.Desarrollo
+Le siguen por turno los demás jugadores, volcando sus cartas unas sobre otras, y diciendo cads vez el palo que ha dicho el mano (en el ejemplo, oros).
+
+En cualquier momento del juego puede un jugador, ante la carta echada por un contrario, decir "desconfío", si cree que ésta no corresponde al palo cantado. En tal caso, quien la jugó la descubre, y si no mintió al cantar el palo, el jugador que desconfió se lleva todas las cartas que haya en la mesa; pero si la carta es de distinto palo al cantado, el que mintió es quien se lleva todas las cartas, siendo mano para continuar.
+
+Los jugadores que vayan logrando desprenderse de
+todas sus cartas quedan libres, perdiendo la partida el último jugadór que quede con cartas en su mano.
+
+5.Muy astuto
+Es conveniente no quedarse sin cartas de un mismo palo, así como elegir, al iniciar una mano, el palo del que más cartas se tengan (para tener menos probabilidades de mentir).
