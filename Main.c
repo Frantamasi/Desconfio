@@ -3,12 +3,12 @@
 
 int main(){
    
-    int seleccion = menu_principal();
+    int selection = Principal_menu();
 
-    switch (seleccion) //redirige el menu
+    switch (selection) //redirige el menu
     {
     case 1:
-        /* code */
+        
         break;
     case 2:
 
